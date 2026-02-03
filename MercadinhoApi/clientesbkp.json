@@ -1,0 +1,346 @@
+[
+  {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "Nome": "Jos\u00E9 Nelson",
+    "CPF": "",
+    "Telefone": "77991521321",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 247.27,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "465318f1-2e92-4cfa-968f-e7b06761a857",
+        "Descricao": "Arroz",
+        "Valor": 10,
+        "Data": "2026-01-26T15:00:58.5136696-03:00"
+      },
+      {
+        "Id": "c63951c9-2051-4fc6-bb78-06ddb62d2e05",
+        "Descricao": "Leite",
+        "Valor": 50,
+        "Data": "2026-01-26T15:01:27.4637392-03:00"
+      },
+      {
+        "Id": "e91e5b0a-cad3-4422-bda6-eda917898736",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -20,
+        "Data": "2026-01-26T15:20:44.9177618-03:00"
+      },
+      {
+        "Id": "8a36ba3c-afb9-4b71-ace6-6a74755602c0",
+        "Descricao": "Feij\u00E3o",
+        "Valor": 5.95,
+        "Data": "2026-01-26T16:35:54.5927966-03:00"
+      },
+      {
+        "Id": "742102e5-d4f0-4e94-a95c-452478a2e7cd",
+        "Descricao": "Lata de Atum ",
+        "Valor": 8.9,
+        "Data": "2026-01-26T16:46:55.801435-03:00"
+      },
+      {
+        "Id": "c594036c-256e-4030-ba36-550408e2a393",
+        "Descricao": "Macarr\u00E3o",
+        "Valor": 3.8,
+        "Data": "2026-01-26T16:47:39.6305019-03:00"
+      },
+      {
+        "Id": "0bf2c240-002f-4bf6-ae9f-1ae521fdbba5",
+        "Descricao": "Pasta de Dente Colgate 12",
+        "Valor": 8.9,
+        "Data": "2026-01-26T17:01:51.8866657-03:00"
+      },
+      {
+        "Id": "39365aff-52a3-4fa6-8925-dfed00090d29",
+        "Descricao": "Arroz",
+        "Valor": 6.9,
+        "Data": "2026-01-26T17:06:57.9195222-03:00"
+      },
+      {
+        "Id": "b3af25a8-0c21-466d-bbdd-41cb90141bfa",
+        "Descricao": "Feij\u00E3o",
+        "Valor": 7.9,
+        "Data": "2026-01-26T17:06:57.9465946-03:00"
+      },
+      {
+        "Id": "ed56bbb1-cba9-4068-b99b-a45f5cc558af",
+        "Descricao": "Macarr\u00E3o",
+        "Valor": 4.9,
+        "Data": "2026-01-26T17:06:57.9603823-03:00"
+      },
+      {
+        "Id": "0445cfc4-4b05-4d40-b45a-cb89b5bae25e",
+        "Descricao": "Pasta de Dente Colgate 12",
+        "Valor": 9.9,
+        "Data": "2026-01-26T17:49:30.5376023-03:00"
+      },
+      {
+        "Id": "310c841f-1d3f-40e0-83d8-c1c10a9fa513",
+        "Descricao": "Leite Ninho ",
+        "Valor": 37.9,
+        "Data": "2026-01-26T17:49:30.6693967-03:00"
+      },
+      {
+        "Id": "eaf14e2e-b6d9-4541-9170-2e37f1423a17",
+        "Descricao": "Azeite Galo",
+        "Valor": 47.9,
+        "Data": "2026-01-26T17:49:30.6915511-03:00"
+      },
+      {
+        "Id": "c3059973-6673-4d44-954c-da303354ccbd",
+        "Descricao": "Leite Condensado Betania",
+        "Valor": 7.9,
+        "Data": "2026-01-26T18:13:13.4668709-03:00"
+      },
+      {
+        "Id": "fec233db-e89c-47f7-91bf-d47714f62476",
+        "Descricao": "Creme de Leite Betania",
+        "Valor": 5.92,
+        "Data": "2026-01-26T18:13:13.6164848-03:00"
+      },
+      {
+        "Id": "5c65d3fc-eb39-47d2-92ce-fd9fbeb35059",
+        "Descricao": "Leite Condensado",
+        "Valor": 9.9,
+        "Data": "2026-01-26T18:29:13.8888443-03:00"
+      },
+      {
+        "Id": "8be3ccf3-e708-4aca-aa39-5631445250b6",
+        "Descricao": "Creme de Leite Betania",
+        "Valor": 5.9,
+        "Data": "2026-01-26T18:29:14.5708604-03:00"
+      },
+      {
+        "Id": "02dd9e96-cf53-47b6-acb3-7afe0f059c3c",
+        "Descricao": "Leite Condensado Betania",
+        "Valor": 7.9,
+        "Data": "2026-01-26T18:34:53.6123482-03:00"
+      },
+      {
+        "Id": "c62abe65-2dbc-4a80-b2d8-aee9d881f2a1",
+        "Descricao": "Creme de Leite Betania",
+        "Valor": 7.9,
+        "Data": "2026-01-26T18:38:17.0299278-03:00"
+      },
+      {
+        "Id": "20654a40-a27a-4604-a3ed-18fcfffbe78d",
+        "Descricao": "Leite condensado Betania",
+        "Valor": 9.9,
+        "Data": "2026-01-26T18:46:42.1636247-03:00"
+      },
+      {
+        "Id": "54097eaf-e533-4645-9be8-fe59db4d97ef",
+        "Descricao": "Creme de Leite Nestle",
+        "Valor": 9,
+        "Data": "2026-01-26T18:46:42.2931536-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1252.73
+  },
+  {
+    "Id": "f42e485e-14e6-49bb-8033-578ddb2239d2",
+    "Nome": "Ana Paula",
+    "CPF": "",
+    "Telefone": "71981245990",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.0,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "0696e5f5-c353-4587-b458-7fb970b5e98c",
+        "Descricao": "Arroz ",
+        "Valor": 7.9,
+        "Data": "2026-01-26T17:41:26.5974392-03:00"
+      },
+      {
+        "Id": "d9fe8f55-d840-4e34-b7e4-87b48ca1026a",
+        "Descricao": "Feij\u00E3o",
+        "Valor": 7.9,
+        "Data": "2026-01-26T17:41:26.7631599-03:00"
+      },
+      {
+        "Id": "318e9f4e-2363-4591-a1e4-c55e34130e52",
+        "Descricao": "Creme de Leite Betania",
+        "Valor": 5.9,
+        "Data": "2026-01-26T18:49:18.5765441-03:00"
+      },
+      {
+        "Id": "91022586-1d3c-4cad-a703-f4761acbae80",
+        "Descricao": "Leite Condensado",
+        "Valor": 7.9,
+        "Data": "2026-01-26T18:49:18.5912343-03:00"
+      },
+      {
+        "Id": "01d095a3-9be0-428d-82a7-d3a63e276801",
+        "Descricao": "Cx de Cerveja Corona",
+        "Valor": 47,
+        "Data": "2026-01-26T21:51:33.3105419-03:00"
+      },
+      {
+        "Id": "2c9addff-28f6-41b8-acb6-be3084be0bd3",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -10,
+        "Data": "2026-01-28T17:17:31.3194653-03:00"
+      },
+      {
+        "Id": "c77a7132-c05d-4117-9ae9-a1a812eb4142",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -66.6,
+        "Data": "2026-01-28T20:18:00.2727281-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "8f8a9f1d-c966-450c-b859-9134fad94978",
+    "Nome": "Paulo Henrique",
+    "CPF": "96370853579",
+    "Telefone": "71993301262",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 13.7,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "8a2558ab-70d2-4c25-9e96-4f355064e034",
+        "Descricao": "Creme de Leite ",
+        "Valor": 9.9,
+        "Data": "2026-01-26T19:02:12.1118854-03:00"
+      },
+      {
+        "Id": "8834c250-1719-417d-afed-4545d2be90c4",
+        "Descricao": "Leite Condensado",
+        "Valor": 10.5,
+        "Data": "2026-01-26T19:02:12.682486-03:00"
+      },
+      {
+        "Id": "a5200eb4-657f-4e99-9885-d873c030d4cf",
+        "Descricao": "Geladeira",
+        "Valor": 1479.6,
+        "Data": "2026-01-28T16:05:45.49313-03:00"
+      },
+      {
+        "Id": "56776f89-b161-4984-902a-f355f8a3aaf6",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -1500,
+        "Data": "2026-01-28T17:34:09.7793069-03:00"
+      },
+      {
+        "Id": "98a95696-75b9-4258-b6b2-b1c61ccbb34f",
+        "Descricao": "Leite Condensado",
+        "Valor": 7.9,
+        "Data": "2026-01-28T17:35:35.814127-03:00"
+      },
+      {
+        "Id": "a5485129-33ee-4b52-ac94-d91a4b09621e",
+        "Descricao": "Creme de Leite",
+        "Valor": 5.8,
+        "Data": "2026-01-28T17:35:35.866107-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1486.30
+  },
+  {
+    "Id": "4d8b88c7-58b6-4abe-84c2-e66c88496a2c",
+    "Nome": "teste 2",
+    "CPF": "0000000000",
+    "Telefone": "71993301262",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "e8c43b4d-a584-4dd2-9060-14f60ab454fb",
+    "Nome": "Breno Souza",
+    "CPF": "00000000000",
+    "Telefone": "71993301262",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": -12.5,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "b7b8938e-679a-48b1-861d-1553e61c279b",
+        "Descricao": "Leita Ninho",
+        "Valor": 37.5,
+        "Data": "2026-01-28T22:07:45.9553916-03:00"
+      },
+      {
+        "Id": "8bb82c52-aa47-4169-8f3a-0cbbc8dff7b5",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -50,
+        "Data": "2026-01-28T22:26:04.1250618-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1512.50
+  },
+  {
+    "Id": "b57b9663-6843-4581-9d27-01039e671689",
+    "Nome": "teste 4",
+    "CPF": "00000000000",
+    "Telefone": "71993301262",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0,
+    "Ativo": false,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "942c768b-8468-43e4-b6f7-8cfd4058c1c2",
+    "Nome": "teste 5",
+    "CPF": "00000000000",
+    "Telefone": "71993301262",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0,
+    "Ativo": false,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "dc5cc093-f312-4315-a372-84138506cb44",
+    "Nome": "teste 6",
+    "CPF": "00000000000",
+    "Telefone": "719933012",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 250,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "a2d44f41-8ea9-42cb-b29b-4567127a5659",
+        "Descricao": "Leite",
+        "Valor": 32,
+        "Data": "2026-01-28T21:39:37.0630756-03:00"
+      },
+      {
+        "Id": "4dba661b-82de-42cd-92bf-78ca387499b9",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -50,
+        "Data": "2026-01-28T21:39:54.6652342-03:00"
+      },
+      {
+        "Id": "49a6d6c5-bb45-490a-b3b6-62c6967cb706",
+        "Descricao": "Fog\u00E3o",
+        "Valor": 650,
+        "Data": "2026-01-28T22:03:18.3263133-03:00"
+      },
+      {
+        "Id": "6398151c-4549-4f71-892e-ae436a2b72ae",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -400,
+        "Data": "2026-01-28T22:27:27.1417742-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1250.00
+  },
+  {
+    "Id": "c630590b-f249-44ac-9213-6b768db66008",
+    "Nome": "Italo de Souza",
+    "CPF": "00000000000",
+    "Telefone": "71993301262",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  }
+]

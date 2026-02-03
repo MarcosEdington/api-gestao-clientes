@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "Nome": "Jos\u00E9",
+    "LimiteCredito": 200.00,
+    "SaldoUtilizado": 50.00,
+    "Historico": [
+      {
+        "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "Descricao": "string",
+        "Valor": 0,
+        "Data": "2026-01-26T16:13:16.197Z"
+      },
+      {
+        "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "Descricao": "string",
+        "Valor": 50.00,
+        "Data": "2026-01-26T16:14:32.269Z"
+      }
+    ],
+    "SaldoDisponivel": 150.00
+  }
+]

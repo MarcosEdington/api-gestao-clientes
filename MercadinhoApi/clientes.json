@@ -1,0 +1,502 @@
+[
+  {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "Nome": "Jos\u00E9 Nelson",
+    "CPF": "00000000000",
+    "Telefone": "77000000000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 724.80,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "3a36495f-2a31-46ae-b91a-7e0a2ff9c32b",
+        "Descricao": "Leite Ninho",
+        "Valor": 37.9,
+        "Data": "2026-01-29T02:06:40.9200991-03:00"
+      },
+      {
+        "Id": "3853bf6c-539f-47f8-820d-22a4ef850325",
+        "Descricao": "Creme de Leite",
+        "Valor": 6.9,
+        "Data": "2026-01-29T02:06:41.0570174-03:00"
+      },
+      {
+        "Id": "ce5ee0e4-34dc-4ad9-8d1b-a5752e3a43c7",
+        "Descricao": "Pasta de Dente Colgate 12",
+        "Valor": 10,
+        "Data": "2026-01-29T02:06:41.0770823-03:00"
+      },
+      {
+        "Id": "b3909a85-8ba2-45c9-9f53-51b1fc5e1d09",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -20,
+        "Data": "2026-01-29T02:07:28.3791383-03:00"
+      },
+      {
+        "Id": "f0fb171e-9e16-4fd3-9c3e-6ece66a102d8",
+        "Descricao": "Microondas Panasonic",
+        "Valor": 690,
+        "Data": "2026-01-29T02:11:37.9550289-03:00"
+      }
+    ],
+    "SaldoDisponivel": 775.20
+  },
+  {
+    "Id": "f42e485e-14e6-49bb-8033-578ddb2239d2",
+    "Nome": "Ana Paula",
+    "CPF": "00000000000",
+    "Telefone": "71000000000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [
+
+    ],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "8f8a9f1d-c966-450c-b859-9134fad94978",
+    "Nome": "Paulo Henrique Mercado",
+    "CPF": "96370853579",
+    "Telefone": "71000000000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 13.70,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "8a2558ab-70d2-4c25-9e96-4f355064e034",
+        "Descricao": "Creme de Leite",
+        "Valor": 13.70,
+        "Data": "2026-01-26T19:02:12"
+      }
+    ],
+    "SaldoDisponivel": 1486.30
+  },
+  {
+    "Id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "Nome": "Mercado S\u00E3o Jos\u00E9",
+    "CPF": "00000000000",
+    "Telefone": "71000000000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+        "Descricao": "PAGAMENTO",
+        "Valor": -120.50,
+        "Data": "2026-01-29T11:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+    "Nome": "Breno Souza Revenda",
+    "CPF": "00000000000",
+    "Telefone": "71000000000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 37.50,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+        "Descricao": "Leite Ninho",
+        "Valor": 37.50,
+        "Data": "2026-01-28T22:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1462.50
+  },
+  {
+    "Id": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7a8b",
+    "Nome": "Bia Cosm\u00E9ticos VIP",
+    "CPF": "00000000000",
+    "Telefone": "71000000000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7a8b9c",
+        "Descricao": "PAGAMENTO",
+        "Valor": -250.00,
+        "Data": "2026-01-29T14:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "01010101-0202-4000-8000-030303030303",
+    "Nome": "Lanchonete da Vila",
+    "CPF": "00000000000",
+    "Telefone": "71000000000",
+    "LimiteCredito": 600.00,
+    "SaldoUtilizado": 80.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 520.00
+  },
+  {
+    "Id": "11111111-2222-4333-8444-555555555555",
+    "Nome": "Suellen Revendas",
+    "CPF": "00000000000",
+    "Telefone": "71995556677",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "22222222-3333-4444-8555-666666666666",
+    "Nome": "Mercearia do Gordo",
+    "CPF": "00000000000",
+    "Telefone": "71996667788",
+    "LimiteCredito": 900.00,
+    "SaldoUtilizado": 50.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "33333333-4444-4555-9666-777777777777",
+        "Descricao": "PAGAMENTO",
+        "Valor": -400.00,
+        "Data": "2026-01-29T16:00:00"
+      }
+    ],
+    "SaldoDisponivel": 850.00
+  },
+  {
+    "Id": "44444444-5555-4666-8777-888888888888",
+    "Nome": "Espa\u00E7o Mulher",
+    "CPF": "00000000000",
+    "Telefone": "71997778899",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 100.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1400.00
+  },
+  {
+    "Id": "66666666-7777-4888-8999-000000000000",
+    "Nome": "Super Econ\u00F4mico",
+    "CPF": "00000000000",
+    "Telefone": "71998889900",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 100.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "96c66034-7776-437f-83b0-5591451dd89f",
+        "Descricao": "AirFray",
+        "Valor": 399,
+        "Data": "2026-01-29T01:59:12.383002-03:00"
+      },
+      {
+        "Id": "0d3db3ae-c10c-4722-8ed2-c5800aafd1a6",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -200,
+        "Data": "2026-01-29T01:59:24.9409825-03:00"
+      },
+      {
+        "Id": "08d5116b-b084-4617-9547-f1524a5ea5ce",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -99,
+        "Data": "2026-01-29T02:02:15.8719625-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1400.00
+  },
+  {
+    "Id": "88888888-9999-4000-8111-222222222222",
+    "Nome": "Loja da Cl\u00E1udia",
+    "CPF": "00000000000",
+    "Telefone": "71999990011",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 120.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "99999999-0000-4111-9222-333333333333",
+        "Descricao": "Esmaltes",
+        "Valor": 120.00,
+        "Data": "2026-01-29T19:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1380.00
+  },
+  {
+    "Id": "aaaa1111-bb22-4ccc-8ddd-eeee33334444",
+    "Nome": "Frutaria do Vale",
+    "CPF": "00000000000",
+    "Telefone": "71991112233",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 75.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "bbbb2222-cc33-4ddd-9eee-ffff44445555",
+        "Descricao": "Ma\u00E7\u00E3s",
+        "Valor": 75.00,
+        "Data": "2026-01-29T20:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1425.00
+  },
+  {
+    "Id": "cccc3333-dd44-4eee-8fff-aaaa55556666",
+    "Nome": "Beleza R\u00E1pida",
+    "CPF": "00000000000",
+    "Telefone": "71992223344",
+    "LimiteCredito": 1000.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1000.00
+  },
+  {
+    "Id": "eeee5555-ff66-4aaa-8bbb-cccc77778888",
+    "Nome": "Mercado Noite e Dia",
+    "CPF": "00000000000",
+    "Telefone": "71993334455",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 150.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "ffff6666-aa77-4bbb-9ccc-dddd88889999",
+        "Descricao": "Biscoitos",
+        "Valor": 150.00,
+        "Data": "2026-01-29T22:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1350.00
+  },
+  {
+    "Id": "1111aaaa-22bb-4000-8888-3333cccc4444",
+    "Nome": "Mercadinho do Vav\u00E1",
+    "CPF": "00000000000",
+    "Telefone": "71994445566",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "2222bbbb-33cc-4111-9999-4444dddd5555",
+        "Descricao": "PAGAMENTO",
+        "Valor": -350.00,
+        "Data": "2026-01-29T08:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "5555eeee-66ff-4222-8aaa-7777bbbb8888",
+    "Nome": "Renata Perfumes",
+    "CPF": "00000000000",
+    "Telefone": "71995556677",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "9999ffff-00aa-4333-8bbb-1111cccc2222",
+    "Nome": "A\u00E7ougue Central",
+    "CPF": "00000000000",
+    "Telefone": "71996667788",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 200.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1300.00
+  },
+  {
+    "Id": "3333dddd-44ee-4555-8fff-5555aaaa6666",
+    "Nome": "Loja da Bia Revendas",
+    "CPF": "00000000000",
+    "Telefone": "71997778899",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 30.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "4444eeee-55ff-4666-9aaa-6666bbbb7777",
+        "Descricao": "Sabonetes",
+        "Valor": 30.00,
+        "Data": "2026-01-29T14:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1470.00
+  },
+  {
+    "Id": "7777cccc-88dd-4777-8eee-9999ffff0000",
+    "Nome": "Mercado S\u00E3o Pedro",
+    "CPF": "00000000000",
+    "Telefone": "71998889900",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "1a1a1a1a-2b2b-4000-8000-3c3c3c3c3c3c",
+    "Nome": "Sacol\u00E3o do Bairro",
+    "CPF": "00000000000",
+    "Telefone": "71991113344",
+    "LimiteCredito": 1000.00,
+    "SaldoUtilizado": 150.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "2b2b2b2b-3c3c-4111-9111-4d4d4d4d4d4d",
+        "Descricao": "Verduras",
+        "Valor": 150.00,
+        "Data": "2026-01-29T16:00:00"
+      }
+    ],
+    "SaldoDisponivel": 850.00
+  },
+  {
+    "Id": "d1d1d1d1-e2e2-4002-8002-f3f3f3f3f3f3",
+    "Nome": "Drogaria Vida",
+    "CPF": "00000000000",
+    "Telefone": "71994446677",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 120.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "e2e2e2e2-f3f3-4003-9003-a4a4a4a4a4a4",
+        "Descricao": "Higiene",
+        "Valor": 120.00,
+        "Data": "2026-01-29T17:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1380.00
+  },
+  {
+    "Id": "b5b5b5b5-c6c6-4005-8005-d7d7d7d7d7d7",
+    "Nome": "Fabricio Souza",
+    "CPF": "00000000000",
+    "Telefone": "71995557788",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 250.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "87e4e4b7-1770-4769-ad92-b3312166095b",
+        "Descricao": "Fogao",
+        "Valor": 750,
+        "Data": "2026-01-29T01:54:16.8628793-03:00"
+      },
+      {
+        "Id": "2e0dad4a-6c80-4274-82d4-3290e3024873",
+        "Descricao": "PAGAMENTO REALIZADO",
+        "Valor": -500,
+        "Data": "2026-01-29T01:56:51.2296217-03:00"
+      }
+    ],
+    "SaldoDisponivel": 1250.00
+  },
+  {
+    "Id": "f9f9f9f9-a0a0-4009-8009-b1b1b1b1b1b1",
+    "Nome": "Mundo das Cores",
+    "CPF": "00000000000",
+    "Telefone": "71996668899",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "3d3d3d3d-4e4e-4004-8004-5f5f5f5f5f5f",
+    "Nome": "Padaria Silva",
+    "CPF": "00000000000",
+    "Telefone": "71997779900",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 300.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "4e4e4e4e-5f5f-4005-9005-6a6a6a6a6a6a",
+        "Descricao": "Trigo",
+        "Valor": 300.00,
+        "Data": "2026-01-29T19:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1200.00
+  },
+  {
+    "Id": "a1c1a1c1-b2b2-4060-8888-c3c3c3c3c3c3",
+    "Nome": "Mercado do Povo",
+    "CPF": "00000000000",
+    "Telefone": "71991110000",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 450.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "b2b2b2b2-c3c3-4061-9999-d4d4d4d4d4d4",
+        "Descricao": "Macarr\u00E3o",
+        "Valor": 450.00,
+        "Data": "2026-01-29T08:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1050.00
+  },
+  {
+    "Id": "d4f4d4f4-e5e5-4066-8888-f6f6f6f6f6f6",
+    "Nome": "Leticia Unhas",
+    "CPF": "00000000000",
+    "Telefone": "71994443333",
+    "LimiteCredito": 1000.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1000.00
+  },
+  {
+    "Id": "f6b6f6b6-a7a7-4069-8888-b8b8b8b8b8b8",
+    "Nome": "Bia Prime",
+    "CPF": "00000000000",
+    "Telefone": "71996665555",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [
+      {
+        "Id": "a7a7a7a7-b8b8-4070-9999-c9c9c9c9c9c9",
+        "Descricao": "PAGAMENTO",
+        "Valor": -500.00,
+        "Data": "2026-01-29T13:00:00"
+      }
+    ],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "c3c4c5c6-d7d8-4075-8888-e9e9e9e9e9e9",
+    "Nome": "G\u00E1s 24 Horas",
+    "CPF": "00000000000",
+    "Telefone": "71999998888",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": false,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  },
+  {
+    "Id": "e5e6e7e8-f9f0-4078-8888-0a0a0a0a0a0a",
+    "Nome": "Mercado Popular III",
+    "CPF": "00000000000",
+    "Telefone": "71991112233",
+    "LimiteCredito": 1500.00,
+    "SaldoUtilizado": 0.00,
+    "Ativo": true,
+    "Historico": [],
+    "SaldoDisponivel": 1500.00
+  }
+]
