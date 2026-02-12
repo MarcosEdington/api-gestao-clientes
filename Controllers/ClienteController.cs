@@ -8,7 +8,7 @@ namespace MercadinhoApi.Controllers
     [Route("api/[controller]")]
     public class ClienteController : ControllerBase
     {
-        // Instanciamos o repositório que agora tem métodos específicos para Clientes e Usuários
+
         private readonly JsonRepository _repository = new JsonRepository();
 
         // 1. Listar todos os clientes cadastrados
@@ -70,7 +70,7 @@ namespace MercadinhoApi.Controllers
                 return BadRequest("O valor da compra deve ser maior que zero.");
             }
 
-            // --- REGRA DE OURO DO MERCADINHO ---
+     
             // Verifica se o valor da compra ultrapassa o saldo disponível
             if (novaCompra.Valor > cliente.SaldoDisponivel)
             {
