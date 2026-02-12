@@ -5,7 +5,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("LiberarReact", policy =>
     {
-        // AllowAnyOrigin permite que seu site no Netlify acesse a API
+      
         policy.AllowAnyOrigin()
               .AllowAnyHeader()
               .AllowAnyMethod();
@@ -19,8 +19,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Removemos o "if IsDevelopment" do Swagger caso você queira testar a API 
-// direto pelo navegador no Render, mas você pode manter se preferir.
+
 app.UseSwagger();
 app.UseSwaggerUI();
 
@@ -64,7 +63,7 @@ app.Run();
 
 //app.UseHttpsRedirection();
 
-//// --- ADICIONE ESTA LINHA AQUI (Antes do UseAuthorization) ---
+
 //app.UseCors("LiberarReact");
 //// ------------------------------------------------------------
 
