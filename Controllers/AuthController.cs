@@ -32,7 +32,7 @@ namespace MercadinhoApi.Controllers
             });
         }
 
-        // Método para você cadastrar o primeiro administrador via Swagger
+        
         [HttpPost("registrar")]
         public IActionResult Registrar([FromBody] Usuario novoUsuario)
         {
