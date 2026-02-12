@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// --- CONFIGURA«√O DE CORS PARA PRODU«√O ---
+// --- CONFIGURA√á√ÉO DE CORS PARA PRODU√á√ÉO ---
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("LiberarReact", policy =>
@@ -19,14 +19,14 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Removemos o "if IsDevelopment" do Swagger caso vocÍ queira testar a API 
-// direto pelo navegador no Render, mas vocÍ pode manter se preferir.
+// Removemos o "if IsDevelopment" do Swagger caso voc√™ queira testar a API 
+// direto pelo navegador no Render, mas voc√™ pode manter se preferir.
 app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 
-// --- ATIVA«√O DO CORS ---
+// --- ATIVA√á√ÉO DO CORS ---
 app.UseCors("LiberarReact");
 // ------------------------
 
@@ -38,12 +38,12 @@ app.Run();
 
 //var builder = WebApplication.CreateBuilder(args);
 
-//// --- ADICIONE ESTE BLOCO AQUI ---
+
 //builder.Services.AddCors(options =>
 //{
 //    options.AddPolicy("LiberarReact", policy =>
 //    {
-//        policy.WithOrigins("http://localhost:3000") // URL padr„o do React
+//        policy.WithOrigins("http://localhost:3000") // URL padr√£o do React
 //              .AllowAnyHeader()
 //              .AllowAnyMethod();
 //    });
